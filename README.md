@@ -388,16 +388,6 @@ This repository is maintained for:
 
 ---
 
-## Contact
-
-**Mahesh Chilukamari**
-
-- LinkedIn: Add your LinkedIn profile URL
-- GitHub: Add your GitHub profile URL
-- Portfolio: Add your portfolio URL
-- Email: Add your professional email address
-
----
 
 ## Acknowledgments
 
